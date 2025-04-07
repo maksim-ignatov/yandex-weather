@@ -1,1 +1,1 @@
-# yandex-weather
+# Яндекс Погода mod
